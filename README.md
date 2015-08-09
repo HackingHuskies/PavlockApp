@@ -1,2 +1,2 @@
-# PavlockApp
-Pavlock app developed at the Shockathon
+# PavlokApp
+2015 shockathon android app
